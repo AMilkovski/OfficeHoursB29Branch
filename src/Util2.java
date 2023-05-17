@@ -1,5 +1,5 @@
 
-public class Util {
+public class Util2 {
 
     public static void ConnectToDB() {
     }
